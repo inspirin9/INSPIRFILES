@@ -1,0 +1,2 @@
+# INSPIRFILES
+машина.
